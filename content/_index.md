@@ -1,22 +1,22 @@
 ---
-title: Zvíøetník
+title: ZvÃ­Å™etnÃ­k
 ---
 
-# Zvíøetník
+# ZvÃ­Å™etnÃ­k
 
-CÍL:
+CÃL:
 
-**Webová stránka pro novì vznikající spolek, kterı se bude zabıvat pomocí nechtìnım, opuštìnım èi tıranım zvíøatùm - externím èi v péèi vlastního psího azylu. Dále se bude zabıvat osvìtou a pomocí lidem, kteøí se dostanou do situace, kdy potøebují vyøešit nìjakı problém napøíklad s tıranım zvíøetem, nalezenım èi ztracenım zvíøetem atd. a díky tomu, e nemají zkušenosti s tìmito situacemi, nevìdí, kam se obrátit a jak to øešit.**
+**WebovÃ¡ strÃ¡nka pro novÄ› vznikajÃ­cÃ­ spolek, kterÃ½ se bude zabÃ½vat pomocÃ­ nechtÄ›nÃ½m, opuÅ¡tÄ›nÃ½m Äi tÃ½ranÃ½m zvÃ­Å™atÅ¯m - externÃ­m Äi v pÃ©Äi vlastnÃ­ho psÃ­ho azylu. DÃ¡le se bude zabÃ½vat osvÄ›tou a pomocÃ­ lidem, kteÅ™Ã­ se dostanou do situace, kdy potÅ™ebujÃ­ vyÅ™eÅ¡it nÄ›jakÃ½ problÃ©m napÅ™Ã­klad s tÃ½ranÃ½m zvÃ­Å™etem, nalezenÃ½m Äi ztracenÃ½m zvÃ­Å™etem atd. a dÃ­ky tomu, Å¾e nemajÃ­ zkuÅ¡enosti s tÄ›mito situacemi, nevÄ›dÃ­, kam se obrÃ¡tit a jak to Å™eÅ¡it.**
 
 KONTEXT:
 
-Èeská republika je státem, kterı má hodnì vysoké mnoství psù na poèet obyvatel. Odhaduje se, e se jedná asi o 2 milióny psù a e je tedy Èesko v tomto smìru na jednom z pøedních míst v Evropì. Dále se zde nachází velkı poèet koèek.
+ÄŒeskÃ¡ republika je stÃ¡tem, kterÃ½ mÃ¡ hodnÄ› vysokÃ© mnoÅ¾stvÃ­ psÅ¯ na poÄet obyvatel. Odhaduje se, Å¾e se jednÃ¡ asi o 2 miliÃ³ny psÅ¯ a Å¾e je tedy ÄŒesko v tomto smÄ›ru na jednom z pÅ™ednÃ­ch mÃ­st v EvropÄ›. DÃ¡le se zde nachÃ¡zÃ­ velkÃ½ poÄet koÄek.
 
-Mnoho z tìchto zvíøat nemá svoje zázení v podobì majitelù, kteøí by jim poskytovali péèi. Pøitom zde existuje povinnost obcí, postarat se o toulavá zvíøata na svém katastru. Dùvodem zavedení této povinnosti byla ochrana obyvatel pøed pokousáním a infekèními chorobami zvíøaty pøenosnımi na èlovìka. Kapacity obecních útulkù však postupnì pøestaly staèit poètu zvíøat, take vznikají neziskové organizace, které doplòují „státní“ péèi o zvíøata.
+Mnoho z tÄ›chto zvÃ­Å™at nemÃ¡ svoje zÃ¡zenÃ­ v podobÄ› majitelÅ¯, kteÅ™Ã­ by jim poskytovali pÃ©Äi. PÅ™itom zde existuje povinnost obcÃ­, postarat se o toulavÃ¡ zvÃ­Å™ata na svÃ©m katastru. DÅ¯vodem zavedenÃ­ tÃ©to povinnosti byla ochrana obyvatel pÅ™ed pokousÃ¡nÃ­m a infekÄnÃ­mi chorobami zvÃ­Å™aty pÅ™enosnÃ½mi na ÄlovÄ›ka. Kapacity obecnÃ­ch ÃºtulkÅ¯ vÅ¡ak postupnÄ› pÅ™estaly staÄit poÄtu zvÃ­Å™at, takÅ¾e vznikajÃ­ neziskovÃ© organizace, kterÃ© doplÅˆujÃ­ â€stÃ¡tnÃ­â€œ pÃ©Äi o zvÃ­Å™ata.
 
-Èeská republika je také spolu se Slovenskou republikou známá jako „mnoírna Evropy“. Z dùvodu velkého poètu zvíøat, které jsou produkovány za úèelem zisku, èasto ve velmi tristních podmínkách, je znamenají nekvalitní odchovy èasto nemocnıch zvíøat a trıznivı ivot rodièù, kteøí slouí jen k reprodukci bez jakékoliv péèe o nì – zdravotní, vıivové, fyzické. Èasto pak tato zvíøata konèí také v neziskovıch organizacích, které jim zajišují zdravotní péèi a nové umístìní do solidních chovatelskıch podmínek. 
+ÄŒeskÃ¡ republika je takÃ© spolu se Slovenskou republikou znÃ¡mÃ¡ jako â€mnoÅ¾Ã­rna Evropyâ€œ. Z dÅ¯vodu velkÃ©ho poÄtu zvÃ­Å™at, kterÃ© jsou produkovÃ¡ny za ÃºÄelem zisku, Äasto ve velmi tristnÃ­ch podmÃ­nkÃ¡ch, jeÅ¾ znamenajÃ­ nekvalitnÃ­ odchovy Äasto nemocnÃ½ch zvÃ­Å™at a trÃ½znivÃ½ Å¾ivot rodiÄÅ¯, kteÅ™Ã­ slouÅ¾Ã­ jen k reprodukci bez jakÃ©koliv pÃ©Äe o nÄ› â€“ zdravotnÃ­, vÃ½Å¾ivovÃ©, fyzickÃ©. ÄŒasto pak tato zvÃ­Å™ata konÄÃ­ takÃ© v neziskovÃ½ch organizacÃ­ch, kterÃ© jim zajiÅ¡Å¥ujÃ­ zdravotnÃ­ pÃ©Äi a novÃ© umÃ­stÄ›nÃ­ do solidnÃ­ch chovatelskÃ½ch podmÃ­nek. 
 
-Web by mìl slouit pro jednu z takovıch neziskovıch organizací – konkrétnì spolku Zvíøetník, kterı se v souèasnosti zakládá. Konkrétnì napøíklad prezentaci zvíøat v azylu spadajícímu pod budoucí spolek, kterı ji funguje nìjakou dobu jako soukromı azyl a kterı se dosud staral o nìkolik starıch a nemocnıch psù na doití, a umístil zhruba 30 zvíøat.
+Web by mÄ›l slouÅ¾it pro jednu z takovÃ½ch neziskovÃ½ch organizacÃ­ â€“ konkrÃ©tnÄ› spolku ZvÃ­Å™etnÃ­k, kterÃ½ se v souÄasnosti zaklÃ¡dÃ¡. KonkrÃ©tnÄ› napÅ™Ã­klad prezentaci zvÃ­Å™at v azylu spadajÃ­cÃ­mu pod budoucÃ­ spolek, kterÃ½ jiÅ¾ funguje nÄ›jakou dobu jako soukromÃ½ azyl a kterÃ½ se dosud staral o nÄ›kolik starÃ½ch a nemocnÃ½ch psÅ¯ na doÅ¾itÃ­, a umÃ­stil zhruba 30 zvÃ­Å™at.
 
 
 ZDROJE:
@@ -24,12 +24,12 @@ ZDROJE:
 1) Zde psi z azylu: 
 http://tyrana-zvirata.blogspot.com/2012/02/zvirata-k-adopci.html
 
-2) Zde weby zabıvající se problematikou mnoíren:
+2) Zde weby zabÃ½vajÃ­cÃ­ se problematikou mnoÅ¾Ã­ren:
 http://stop-mnozitelum.cz/
 https://www.lacnesteniatka.sk/
 
-3) Zde web mého pùvodního sdruení nyní spolku, jeho èinnost bych ráda samostatnì rozvíjela v podmínkách svého spolku:
+3) Zde web mÃ©ho pÅ¯vodnÃ­ho sdruÅ¾enÃ­ nynÃ­ spolku, jehoÅ¾ Äinnost bych rÃ¡da samostatnÄ› rozvÃ­jela v podmÃ­nkÃ¡ch svÃ©ho spolku:
 https://www.petheroes.cz/
 
-4) Zde podobné zaøízení nedaleko Brna, se kterım také spolupracujeme:
+4) Zde podobnÃ© zaÅ™Ã­zenÃ­ nedaleko Brna, se kterÃ½m takÃ© spolupracujeme:
 http://www.dejtenamsanci.cz/
