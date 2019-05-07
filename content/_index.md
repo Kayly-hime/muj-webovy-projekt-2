@@ -6,6 +6,8 @@
 
   gtag('config', 'UA-139334665-1');
 </script>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v3.3"></script>
 ---
 title: Zvířetník
 ---
@@ -41,3 +43,5 @@ https://www.petheroes.cz/
 
 4) Zde podobné zařízení nedaleko Brna, se kterým také spolupracujeme:
 http://www.dejtenamsanci.cz/
+
+<div class="fb-share-button" data-href="https://gifted-khorana-32cd43.netlify.com/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgifted-khorana-32cd43.netlify.com%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Sdílet</a></div>
